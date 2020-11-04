@@ -3,8 +3,9 @@ team coding for sjtu ohw20f
 
 <<<<<<< HEAD
 it is xkn's  
-
-it is zyh
+I am qhm (丘辉明)
+I am zyh
+I am zh
 =======
 
 I'am xkn
