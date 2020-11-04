@@ -9,8 +9,6 @@ it is xkn's
 
 I am zjn
 
-I am STJY
-
 I am Czl(蔡子霖)
 
 I am pjq(彭嘉淇)
