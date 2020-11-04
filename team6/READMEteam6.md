@@ -3,5 +3,5 @@ team coding for sjtu ohw20f
 
 it is xkn's  
 
-I am WRX
-I am WDK
+I am WRX(汪睿翔).
+I am WDK(邬登科).
