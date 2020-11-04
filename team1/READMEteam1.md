@@ -2,8 +2,6 @@
 team coding for sjtu ohw20f
 
 it is xkn's  
-
-it is zyh
-
-I'am xkn
-I am qhm (丘辉明)
+I am qhm (丘辉明)  
+I am zyh(张远航)  
+I am zh(曾航)  
