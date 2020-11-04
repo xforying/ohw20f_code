@@ -3,7 +3,6 @@ team coding for sjtu ohw20f
 
 it is xkn
 
-<<<<<<< HEAD
 I'm Sinogi(康子健).
     
 I'm MaYan(马彦)   
