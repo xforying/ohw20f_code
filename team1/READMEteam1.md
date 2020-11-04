@@ -1,6 +1,11 @@
 # ohw20f_code
 team coding for sjtu ohw20f
 
+<<<<<<< HEAD
+it is xkn's  
+
+it is zyh
+=======
 
 <<<<<<< HEAD
 I am qhm (丘辉明)
