@@ -6,3 +6,5 @@ it is xkn's
 
 I am WRX
 I am ZHB
+I am ZMY
+I am WDK
